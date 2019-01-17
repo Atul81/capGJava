@@ -19,7 +19,7 @@ public class Words {
         if(o.intValue()  +1 == 6 );
         Set<String> ret = new HashSet<>();
         for (String w : word) {
-            w.cha
+         //   w.cha
             char[] chars = w.toCharArray();
             String add = "";
             for (int j = 0; j < chars.length; j++) {
@@ -43,6 +43,7 @@ public class Words {
         for(int i =0; i< chars.length;  i++) {
 
         }
+		return target;
     }
 }
 
