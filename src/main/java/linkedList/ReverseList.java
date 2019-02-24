@@ -14,7 +14,7 @@ public class ReverseList {
 		listNode3.setNext(listNode4);
 		listNode4.setNext(null);
 		Reverse.reverse(listNode);
-		ListNode prev = ReverseRecursion.reverse(listNode);
+		ListNode prev = ReverseRecursio.reverse(listNode);
 		
 		while (prev != null) {
 			System.out.println(prev.getData() + "Second one");

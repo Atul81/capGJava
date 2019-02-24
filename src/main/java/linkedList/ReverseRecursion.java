@@ -1,6 +1,6 @@
 package linkedList;
 
-public class ReverseRecursion {
+class ReverseRecursio {
 	
 	static ListNode prev = null;
 	static ListNode next = null;
