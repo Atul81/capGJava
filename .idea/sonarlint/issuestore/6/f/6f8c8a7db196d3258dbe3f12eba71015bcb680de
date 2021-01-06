@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Éê—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Éê—
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Î÷¿í.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ¼³µ
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(‰í†àùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ¼³µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Éê—
